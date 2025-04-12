@@ -25,4 +25,4 @@
 Если возникли проблемы, создайте [Issue](https://github.com/REF4IK/Winlator-rus/issues).  
 Поставьте ⭐️ в верхнем правом углу, чтобы поддержать проект!
 [![GitHub Stars](https://img.shields.io/github/stars/REF4IK/Winlator-rus?style=for-the-badge&label=Звёзды&color=yellow&logo=github)](https://github.com/REF4IK/Winlator-rus/stargazers)
-![Мем](https://api.memegen.link/images/ds/Когда_обнаружил_баг_в_коде.png?width=400)
+
