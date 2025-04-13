@@ -26,3 +26,7 @@
 Поставьте ⭐️ в верхнем правом углу, чтобы поддержать проект!
 [![GitHub Stars](https://img.shields.io/github/stars/REF4IK/Winlator-rus?style=for-the-badge&label=Звёзды&color=yellow&logo=github)](https://github.com/REF4IK/Winlator-rus/stargazers)
 
+## Сообщество
+
+Присоединяйтесь к моему Telegram-каналу для обсуждений и обновлений:  
+[👉 https://t.me/winlatoru](https://t.me/winlatoru)
