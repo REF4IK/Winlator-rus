@@ -29,4 +29,4 @@
 ## Сообщество
 
 Присоединяйтесь к моему Telegram-каналу для обсуждений и обновлений:  
-[👉 https://t.me/winlatoru](https://t.me/winlatoru)
+[👉 https://t.me/winlatoru](https://t.me/winlatorruu)
