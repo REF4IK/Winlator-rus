@@ -1,5 +1,5 @@
 # Winlator-rus 🇷🇺
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&color=0078D7&center=true&vCenter=true&width=1000&lines=Добро+пожаловать+в+Winlator-rus!;Запускай+Windows-программы+на+Android!;Полная+русификация+и+улучшения!;Скачивай+и+тестируй+прямо+сейчас!;)](https://git.io/typing-svg)
 [![GitHub all releases](https://img.shields.io/github/downloads/REF4IK/Winlator-rus/total?style=for-the-badge&label=Скачиваний&color=success&logo=github)](https://github.com/REF4IK/Winlator-rus/releases)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/REF4IK/Winlator-rus?style=for-the-badge&label=Версия&logo=azurepipelines)](https://github.com/REF4IK/Winlator-rus/releases/latest)
 <p align="center"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/Wine-0078D7?style=for-the-badge&logo=wine&logoColor=white"> </p>
