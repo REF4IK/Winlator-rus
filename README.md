@@ -8,7 +8,7 @@
 ---
 
 ## 📥 Скачать последнюю версию
-Перейдите в раздел [Releases](https://github.com/REF4IK/Winlator-rus/releases) и выберете понравившийся мод`Winlator-rus-X.X.apk`.
+Перейдите в раздел [Releases](https://github.com/REF4IK/Winlator-rus/releases) и выберете понравившийся мод`Winlator.apk`.
 
 ## 🛠️ Установка
 1. Установите APK-файл на ваше Android-устройство.
@@ -42,7 +42,7 @@
 ---
 
 ## 📥 Download Latest Version
-Go to [Releases](https://github.com/REF4IK/Winlator-rus/releases) and choose preferred mod `Winlator-rus-X.X.apk`.
+Go to [Releases](https://github.com/REF4IK/Winlator-rus/releases) and choose preferred mod `Winlator.apk`.
 
 ## 🛠️ Installation
 1. Install APK file on your Android device.
