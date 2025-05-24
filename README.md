@@ -1,4 +1,4 @@
-![Winlator Logo](https://github.com/REF4IK/Winlator-REF4IK/raw/main/logo.png)
+![Winlator Logo](https://github.com/REF4IK/Winlator-REF4IK/raw/main/logo.w.png)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&color=0078D7&center=true&vCenter=true&width=1000&lines=Добро+пожаловать+в+Winlator-REF4IK!;)](https://git.io/typing-svg)
 [![GitHub all releases](https://img.shields.io/github/downloads/REF4IK/Winlator-rus/total?style=for-the-badge&label=Скачиваний&color=success&logo=github)](https://github.com/REF4IK/Winlator-rus/releases)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/REF4IK/Winlator-rus?style=for-the-badge&label=Версия&logo=azurepipelines)](https://github.com/REF4IK/Winlator-rus/releases/latest)
