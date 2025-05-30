@@ -4,7 +4,7 @@ turnip-24.3.0-R6.tzst
 turnip-24.3.0-R7.tzst
 turnip-24.3.0-R8.tzst
 turnip-24.3.0-R9.tzst
-turnip-25.0.0-R2.tzst
+turnip-25.0.0.2.tzst
 turnip-25.0.0-R3.tzst
 turnip-25.0.0-R4.tzst
 turnip-25.0.0-R5.tzst
