@@ -15,7 +15,7 @@
   { "type": "DXVK", "verName": "1.7.3", "verCode": 0, "remoteUrl": "https://github.com/REF4IK/Components-/releases/download/1/dxvk-1.7.3.wcp" },
   { "type": "DXVK", "verName": "1.9.2", "verCode": 0, "remoteUrl": "https://github.com/REF4IK/Components-/releases/download/1/dxvk-1.9.2.wcp" },
   { "type": "DXVK", "verName": "2.0-asyns", "verCode": 1, "remoteUrl": "https://github.com/REF4IK/Components-/releases/download/1/DXVK-2.0-async.wcp" },
-    { "type": "DXVK", "verName": "2.0", "verCode": 1, "remoteUrl": "https://github.com/REF4IK/Components-/releases/download/1/DXVK-2.0.wcp" },
+  { "type": "DXVK", "verName": "2.0", "verCode": 1, "remoteUrl": "https://github.com/REF4IK/Components-/releases/download/1/DXVK-2.0.wcp" },
   { "type": "DXVK", "verName": "2.1.4-gplasyns", "verCode": 1, "remoteUrl": "https://github.com/REF4IK/Components-/releases/download/1/dxvk-2.1-4-gplasync.wcp" },
   { "type": "DXVK", "verName": "2.1-asyns", "verCode": 1, "remoteUrl": "https://github.com/REF4IK/Components-/releases/download/1/dxvk-2.1-async.wcp" },
   { "type": "DXVK", "verName": "2.1-gplasyns", "verCode": 1, "remoteUrl": "https://github.com/REF4IK/Components-/releases/download/1/dxvk-2.1-gplasync.wcp" }, 
