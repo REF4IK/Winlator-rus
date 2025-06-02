@@ -1,0 +1,3 @@
+mygame.exe
+anothergame.exe
+wine.exe
