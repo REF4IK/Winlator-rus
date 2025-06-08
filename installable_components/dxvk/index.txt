@@ -2,6 +2,7 @@ dxvk-0.41.1.tzst
 dxvk-0.7.tzst
 dxvk-0.97.tzst
 dxvk-1.10.3.0.tzst
+dxvk-1.10.3-async.tzst
 dxvk-1.10.6.0.tzst
 dxvk-1.10.8.0.tzst
 dxvk-1.13.3.tzst
@@ -22,8 +23,11 @@ dxvk-2.4.24.tzst
 dxvk-2.4.tzst
 dxvk-2.5.1.2.tzst
 dxvk-2.5.2.tzst
+dxvk-2.5.2-gplasync.tzst
 dxvk-2.5.3.tzst
 dxvk-2.6.1.1.tzst
 dxvk-2.6.1.tzst
 dxvk-2.6.2.tzst
 dxvk-78.11.tzst
+dxvk-78to9.tzst
+dxvk-78.9.tzst
